@@ -1027,8 +1027,6 @@ footer{
     .testimonials__slider__object{
         flex-direction: column;
     }
-    .testimonials__slider__text{
-        text-align: start;
     .testimonials__slider__object::after{
         display: none;
     }
